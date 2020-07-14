@@ -2,9 +2,7 @@
   
 ### Grade for course work 2: **80**
 
-[Grading System Guide](https://www.gold.ac.uk/students/assessments/undergraduate-final-result-calculation/): 
-
-The Scheme of Classification:
+UK [Grading System Guide](https://www.gold.ac.uk/students/assessments/undergraduate-final-result-calculation/): 
 
 Classification | Average mark
 --- | ---
