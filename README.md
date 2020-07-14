@@ -7,5 +7,5 @@
 If jupyter notebooks are not rendering in GitHub, please visit the links below to view 
 them in nbviewer: 
 
-- [CW1]()
+- [CW1](https://nbviewer.jupyter.org/github/kkxix/ML_Coursework/blob/master/kknox001_CW1.ipynb)
 - [CW2]()
