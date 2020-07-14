@@ -8,4 +8,4 @@ If jupyter notebooks are not rendering in GitHub, please visit the links below t
 them in nbviewer: 
 
 - [CW1](https://nbviewer.jupyter.org/github/kkxix/ML_Coursework/blob/master/kknox001_CW1.ipynb)
-- [CW2]()
+- [CW2](https://nbviewer.jupyter.org/github/kkxix/ML_Coursework/blob/master/kknox001_CW2.ipynb)
